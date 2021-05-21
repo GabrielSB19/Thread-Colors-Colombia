@@ -17,6 +17,7 @@ public class MoveFlag extends Thread{
 	@Override
 	public void run () {
 		newPVer();
+		System.out.print("\u001b[0m");
 	}
 	
 	public void newPVer() {

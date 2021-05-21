@@ -9,6 +9,5 @@ public class Main {
 		
 		MoveFlagUI mfui = new MoveFlagUI();
 		mfui.initP();
-		
 	}
 }
